@@ -15,6 +15,7 @@ If you use OpenMP, you will given access to a multicore machine of 12 processors
 If you use MPI, you will be given access to a cluster of at least 2 nodes of 8 processors or more for the student competition. That is, you will have access to more processors than those using OpenMP, but the memory will not be shared between all processors.
 
 Project Choices (each of these topics will be selected by four groups of two).
+
 	1.	Crack a public/private key pair. After reading this forum answer (Links to an external site.) Links to an external site.  describing the importance of prime numbers in cryptography, write a parallel program to factorize a large multiple of two prime numbers. The program should take an large number as input, and output its two prime factors.
 	◦	Your code submission will be graded by me on code clarity through comments, choice of method, and functionality.
 	◦	For the student competition, you will be given several large numbers to factor (all numbers will be < 2 32    ). First team to accurately factor all of the numbers (or to factor the most prime numbers) wins.
